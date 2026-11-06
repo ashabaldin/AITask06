@@ -16,7 +16,12 @@
         "DBIS06_BSP"
       ],
       "configSrc": "Config",
-      "extensions": []
+      "extensions": [
+        {
+          "name": "ОбменСчетами",
+          "src": "Extensions\\ОбменСчетами"
+        }
+      ]
     }
   ],
   "default": "bsp",
