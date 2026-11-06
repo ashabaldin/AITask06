@@ -1,0 +1,3 @@
+{"format":"bsp-invoices","version":1,"createdAt":"2026-11-06T00:00:00","invoices":[{"id":"00000000-0000-0000-0000-0000000000b1","number":"UI-1","date":"2026-11-02T09:00:00","deleted":false,
+"organization":{"id":"00000000-0000-0000-0000-0000000000a1","name":"о"},"customer":{"id":"00000000-0000-0000-0000-0000000000a2","name":"к"},"currency":{"id":"00000000-0000-0000-0000-0000000000a3","name":"р","code":"643"},
+"amount":30,"goods":[{"lineNo":1,"item":{"id":"00000000-0000-0000-0000-0000000000a4","name":"х","article":""},"quantity":3,"price":10,"sum":30}]}]}

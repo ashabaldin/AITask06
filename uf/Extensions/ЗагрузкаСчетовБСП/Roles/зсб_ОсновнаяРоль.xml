@@ -3,7 +3,12 @@
 	<Role uuid="65569ebd-a57e-4aab-8a70-f20273b36f0a">
 		<Properties>
 			<Name>зсб_ОсновнаяРоль</Name>
-			<Synonym/>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Загрузка счетов из БСП</v8:content>
+				</v8:item>
+			</Synonym>
 			<Comment/>
 		</Properties>
 	</Role>

@@ -67,9 +67,11 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>зсб_ОбменСБСП</Subsystem>
 			<Role>зсб_ОсновнаяРоль</Role>
 			<CommonModule>зсб_СопоставлениеОбъектов</CommonModule>
 			<CommonModule>зсб_ЗагрузкаСчетов</CommonModule>
+			<DataProcessor>зсб_ЗагрузкаСчетовБСП</DataProcessor>
 			<InformationRegister>зсб_СоответствияОбъектовБСП</InformationRegister>
 		</ChildObjects>
 	</Configuration>
