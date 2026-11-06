@@ -1,0 +1,24 @@
+{
+  "v8path": "C:\\Program Files\\1cv8\\8.5.1.1529\\bin",
+  "databases": [
+    {
+      "id": "bsp",
+      "name": "Демо БСП (DBIS06_BSP)",
+      "type": "file",
+      "path": "C:\\Users\\psi\\Downloads\\AICourse\\DBIS06_BSP",
+      "v8path": "C:\\Program Files\\1cv8\\8.5.1.1529\\bin",
+      "user": "Администратор",
+      "password": "",
+      "aliases": [
+        "bsp",
+        "бсп",
+        "демо",
+        "DBIS06_BSP"
+      ],
+      "configSrc": "Config",
+      "extensions": []
+    }
+  ],
+  "default": "bsp",
+  "editingAllowedCheck": "deny"
+}
